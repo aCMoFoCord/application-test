@@ -1,0 +1,36 @@
+.loader,
+button {
+	padding:10px 20px;
+	color:#FFFFFF;
+	background:#0097C6;
+	text-align:center;
+}
+body {
+	display:flex;
+	flex-direction:column;
+	font-family: Helvetica, Arial, 'sans-serif';
+}
+.container {
+	width:100%;
+	max-width:600px;
+	margin:20px auto;
+}
+h1 {
+	color:#0097C6;
+}
+table {
+	
+	border:1px solid #666666;
+	border-collapse: collapse;
+}
+th,
+td {
+	padding:5px;
+	border:1px solid #666666;
+	text-align:center;
+}
+th {
+	padding:10px;
+	font-weight:800;
+	border-bottom:4px solid #0097C6;
+}
